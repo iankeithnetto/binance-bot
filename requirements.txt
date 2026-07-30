@@ -1,0 +1,8 @@
+ccxt==4.2.0
+pandas==2.1.4
+numpy==1.24.3
+python-dotenv==1.0.0
+colorama==0.4.6
+flask==3.0.0
+gunicorn==21.2.0
+requests==2.31.0
